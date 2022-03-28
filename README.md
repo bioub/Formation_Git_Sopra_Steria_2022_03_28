@@ -10,3 +10,7 @@ Formation Git Administration niveau 1 du 28/03/2022
 * git commit
 * git config
 
+## Commandes de branches
+
+* git branch
+* git switch
