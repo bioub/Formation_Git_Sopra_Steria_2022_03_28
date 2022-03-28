@@ -14,3 +14,4 @@ Formation Git Administration niveau 1 du 28/03/2022
 
 * git branch
 * git switch
+* git merge
